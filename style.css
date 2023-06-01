@@ -1,0 +1,13 @@
+body{
+
+background-image: linear-gradient(to right, aqua, skyblue);
+}
+
+h1{
+
+	color: whitesmoke;
+	font-family: Comic Sans MS;
+	-webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+
+}
